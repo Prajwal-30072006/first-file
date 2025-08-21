@@ -4,3 +4,5 @@ my name is prajwal S
 i am from magadi
 <br>
 my education is presently bE
+<br>
+my friends are good at studying books

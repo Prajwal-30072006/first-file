@@ -1,5 +1,5 @@
 # first-file
-my name is prajwal S
+my name is Prajwal S
 <br>
 i am from magadi
 <br>
